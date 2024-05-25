@@ -1,6 +1,5 @@
 # Welcome to my GitHub
 
-- 👋 Hi, I’m @hugcapdevila
 - 📫 Email: hugcapdevila@gmail.com
 
 <!---
